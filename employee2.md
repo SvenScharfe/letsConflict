@@ -15,7 +15,7 @@
   ```
   Unser Unternehmen bietet zuverlässige Dienstleistungen in verschiedenen Bereichen an. Wir arbeiten daran, Kundenanforderungen effizient und termingerecht zu erfüllen.
   ```
-- Erstelle einen weiteren Paragraphen `<p></p>`, der leer ist.
+- Erstelle einen weiteren Paragraphen `git status`, der leer ist.
 
 4. Speichere nun die Änderungen mit `git` und `push` deinen Branch auf Github. Warte auf deinen Teampartner, falls nötig.
 5. Hilf deinem Partner, seine `Aufgabe 5` zu erfüllen. Anschließend, erstellt zusammen einen `Pull Request` auf Github mit deinen Änderungen.
